@@ -1,0 +1,4 @@
+Dataset,Rows,Columns,Duplicate rows,Missing cells,Missing date values,Invalid occupancy labels
+datatraining (1).txt,8143,7,0,0,0,0
+datatest (1).txt,2665,7,0,0,0,0
+datatest2 (1).txt,9752,7,0,0,0,0

@@ -1,0 +1,11 @@
+Model,Test file,ROC-AUC
+KNN,datatest (1).txt,0.9764595927554516
+KNN,datatest2 (1).txt,0.9792872241405821
+Decision Tree,datatest (1).txt,0.9487772211405472
+Decision Tree,datatest2 (1).txt,0.9443128297639926
+SVM,datatest (1).txt,0.981733669746402
+SVM,datatest2 (1).txt,0.9956278878751897
+Random Forest,datatest (1).txt,0.986955789877953
+Random Forest,datatest2 (1).txt,0.9954721867789718
+XGBoost,datatest (1).txt,0.9891796042284983
+XGBoost,datatest2 (1).txt,0.9952684923641839
