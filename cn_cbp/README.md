@@ -141,7 +141,7 @@ The application is implemented as a single Python source file.
 1. **Amreen Fathima** — Original project author and primary understanding of the project concept and implementation.
 2. **Meka Sreeja** — Code modifications, project support, and understanding of the implementation.
 3. **Prasanya** — CBP documentation and understanding of the project.
-4. **Mudassir** — Understanding of the project concept and implementation.
+4. **Mudassir** — Understanding of the project concept.
 
 ## Project Information
 
